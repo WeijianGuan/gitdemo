@@ -1,0 +1,1 @@
+For lab05, we are going to learn how to use Git and Bash.
